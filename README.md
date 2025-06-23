@@ -89,7 +89,7 @@ Use Laravel Sanctum for authentication:
 | Method | Endpoint                            | Description                   |
 | ------ | ----------------------------------- | ----------------------------- |
 | GET    | `/api/translations`                 | Search/list translations      |
-| POST   | `/api/translations`                 | Create new translation        |
+| POST   | `/api/store`                        | Create new translation        |
 | PUT    | `/api/translations/{id}`            | Update a translation          |
 | GET    | `/api/translations/export/{locale}` | Export translations by locale |
 ```
